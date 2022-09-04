@@ -6,16 +6,19 @@
 ### <div align="center">我是李晨晨</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+学历：本科
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+毕业院校：石家庄铁道大学
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+专业：软件工程
 
-- ⚡ Fun fact: I use tabs over spaces  
+政治面貌：共青团员
+
+民族：汉
+
+性别：男
+
+年龄：23
   
 
 <br/>  
